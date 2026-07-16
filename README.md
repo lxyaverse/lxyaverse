@@ -9,7 +9,7 @@
 <br>
 
 <img src="https://img.shields.io/badge/Profile%20Views-3K-ff69b4?style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/Hashtag-Fr?style=for-the-badge&color=blue" />
+<img src="https://img.shields.io/github/followers/lxyaverse?style=for-the-badge&color=blue" />
 <img src="https://img.shields.io/badge/Open%20To-Collaborate-success?style=for-the-badge" />
 
 </div>
@@ -68,7 +68,7 @@
 <a href="https://linkedin.com/in/lakshya-mittal-369120327"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://instagram.com/lxyaverse"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://www.youtube.com/c/lxyaverse"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-<a href="https://github.com/Hashtag-Fr"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/lxyaverse"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 <p>
@@ -93,9 +93,9 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=Hashtag-Fr&show_icons=true&theme=tokyonight&count_private=true"/>
+<img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=lxyaverse&show_icons=true&theme=tokyonight&count_private=true"/>
 
-<img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Hashtag-Fr&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=lxyaverse&layout=compact&theme=tokyonight"/>
 
 </div>
 
@@ -103,7 +103,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Hashtag-Fr&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=lxyaverse&theme=tokyonight"/>
 
 </div>
 
@@ -113,7 +113,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Hashtag-Fr/Hashtag-Fr/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"/>
+<img src="https://raw.githubusercontent.com/lxyaverse/lxyaverse/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"/>
 
 </div>
 
@@ -123,7 +123,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hashtag-Fr&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lxyaverse&theme=tokyo-night"/>
 
 </div>
 
@@ -134,9 +134,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hashtag-Fr/Hashtag-Fr/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hashtag-Fr/Hashtag-Fr/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Hashtag-Fr/Hashtag-Fr/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lxyaverse/lxyaverse/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lxyaverse/lxyaverse/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/lxyaverse/lxyaverse/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
 
 </div>
@@ -147,7 +147,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Hashtag-Fr/Hashtag-Fr/snake-output/snake.svg" alt="Snake animation"/>
+<img src="https://raw.githubusercontent.com/lxyaverse/lxyaverse/snake-output/snake.svg" alt="Snake animation"/>
 
 </div>
 
