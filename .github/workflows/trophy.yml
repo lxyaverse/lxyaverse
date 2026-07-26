@@ -1,24 +1,36 @@
 name: Generate trophy card
 
 on:
-  schedule: # execute every 12 hours
+  schedule:
     - cron: "* */12 * * *"
 
   workflow_dispatch:
 
   push:
     branches:
-    - main
+      - main
 
 jobs:
   generate:
-    permissions:
-      contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 5
 
+    permissions:
+      contents: write
+
     steps:
-      - name: generate trophy.svg
+      - name: Debug GitHub API
+        run: |
+          echo "Repository: ${{ github.repository }}"
+          echo "Repository Owner: ${{ github.repository_owner }}"
+          echo "Actor: ${{ github.actor }}"
+
+          curl -L \
+            -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
+            -H "Accept: application/vnd.github+json" \
+            https://api.github.com/users/${{ github.repository_owner }}
+
+      - name: Generate trophy.svg
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
           username: ${{ github.repository_owner }}
@@ -31,7 +43,7 @@ jobs:
           no-background: false
           no-frame: false
 
-      - name: push trophy.svg to the output branch
+      - name: Push trophy.svg to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: trophy-output
