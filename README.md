@@ -73,7 +73,7 @@
 
 <p>
 <a href="https://leetcode.com/u/lakshyamittal_05/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-<a href="https://codeforces.com/profile/lakshya_43"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge"/></a>
+<a href="https://codeforces.com/profile/lxyaverse"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge"/></a>
 <a href="https://www.kaggle.com/lakshya430"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
 <a href="https://lxya-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
