@@ -27,7 +27,7 @@
 * 🏆 GSSoC Contributor
 * ⚡ Building and shipping projects continuously
 * 📫 Reach me at **[lakshyamittal583@gmail.com](mailto:lakshyamittal583@gmail.com)**
-* 🌐 Portfolio: **https://lxya-portfolio.vercel.app**
+* 🌐 Portfolio: **https://lakshya-dev.vercel.app**
 ---
 
 ---
